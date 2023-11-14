@@ -20,5 +20,11 @@ Common Data Types
 2. Float: floating point type (e.g 2.34, -1.2)
 3. str: Stringe type (e.g "Hello, World!")
 4. bool: Boolean type ('True', or'False')
+# COMMENTS
+Comment are used to explain the code and make it more readable. They are ignored by python interpreter
+# TYPES OF COMMENTS
+1. Single line Comments: Created using the '#' symbol.
+2. Multi-line Comments: Enclosed in tripple quotes
+3. Inline Comments: Brief comments on the same line as code
 # CONCLUSION
 Mastering variables, data types, and commenting in python is essential for writing clean, readable, and maintainable code.
