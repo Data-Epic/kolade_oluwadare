@@ -1,0 +1,5 @@
+print('Hello World!')
+name = input('what is your name? ')
+age = input('how old are you? ')
+is_student = input('are you a student? (yes/no): ')
+print(f'hello, i am {name}, a {age}-years-old students!')
